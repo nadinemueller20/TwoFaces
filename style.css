@@ -1,0 +1,94 @@
+#image {
+    margin-top: 0;
+    margin-left: 17%;
+    margin-right: auto;
+    width: 500%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+li {
+    float: left;
+    border-right: 0.5px solid white;
+
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 25px 15px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: large;
+    font-weight: bold;
+}
+
+li a:hover {
+    background-color: black;
+    color: white;
+}
+
+li:last-child {
+    border-right: none;
+}
+
+#navigation {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.bilder {
+    background-color: darkgrey;
+}
+
+#video-section {
+    min-height: 100vh;
+    background: #111;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 20px;
+}
+
+.video-container {
+    width: 100%;
+    max-width: 900px;
+    background: black;
+    border-radius: 16px;
+    overflow: hidden;
+    box-shadow: 0 0 50px rgba(255, 0, 0, 0.3);
+}
+
+video {
+    width: 100%;
+    display: block;
+}
+
+.controls {
+    display: flex;
+    align-items: center;
+    padding: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: white;
+}
+
+button {
+    background: none;
+    border: none;
+    color: white;
+    font-size: 22px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+input[type="range"] {
+    flex: 1;
+    margin-right: 10px;
+}

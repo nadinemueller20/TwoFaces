@@ -1,0 +1,15 @@
+#content {
+    margin-left: 30px;
+    margin-right: 30px;
+    font-family: "Titillium Web", sans-serif;
+}
+
+p {
+    display: block;
+}
+
+h2 {
+    color: white;
+    background-color: #A52A2A;
+    margin-bottom: 0px;
+}
