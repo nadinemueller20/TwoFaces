@@ -19,7 +19,7 @@ In this project I had to design a simple Website to promote the selfmade shortfi
 
 <p align="center">
 Homepage: <br/>
-<img src="" height="80%" width="80%" alt="homepage1"/>
+<img src="https://github.com/nadinemueller20/TwoFaces/blob/main/Screenshots/homepage2.png" height="80%" width="80%" alt="homepage1"/>
 <br />
 <br />
 Charakters page:  <br/>
